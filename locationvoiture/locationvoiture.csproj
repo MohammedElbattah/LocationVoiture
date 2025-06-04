@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{C33C8A37-23DE-48EF-A119-D4FB69FA8889}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>locationvoiture</RootNamespace>
     <AssemblyName>locationvoiture</AssemblyName>
@@ -389,13 +389,13 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>False</UseIIS>
+          <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>54717</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:44307/</IISUrl>
+          <IISUrl>http://localhost:52714/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
-          <UseCustomServer>True</UseCustomServer>
+          <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
           </CustomServerUrl>
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
