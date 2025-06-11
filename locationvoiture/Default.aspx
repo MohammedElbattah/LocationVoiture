@@ -350,7 +350,6 @@
             <a href="Default.aspx">Home</a>
             <a href="Cars.aspx">All Cars</a>
             <a href="About.aspx">About</a>
-            <a href="Contact.aspx">Contact</a>
             <a href="Login.aspx">Login</a>
             <a href="Register.aspx" class="header-btn">Register</a>
         </div>
@@ -389,8 +388,6 @@
         <div class="footer-links">
             <a href="Default.aspx">Home</a> |
             <a href="Cars.aspx">All Cars</a> |
-            <a href="Contact.aspx">Contact</a> |
-            <a href="Terms.aspx">Terms of Service</a>
         </div>
         &copy; <%= DateTime.Now.Year %> NextGen Car Rental. All rights reserved.
     </div>

@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\LocationVoiture\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\LocationVoiture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C33C8A37-23DE-48EF-A119-D4FB69FA8889}|locationvoiture\\locationvoiture.csproj|c:\\users\\hp\\desktop\\locationvoiture\\locationvoiture\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C33C8A37-23DE-48EF-A119-D4FB69FA8889}|locationvoiture\\locationvoiture.csproj|solutionrelative:locationvoiture\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33C8A37-23DE-48EF-A119-D4FB69FA8889}|locationvoiture\\locationvoiture.csproj|c:\\users\\hp\\desktop\\locationvoiture\\locationvoiture\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C33C8A37-23DE-48EF-A119-D4FB69FA8889}|locationvoiture\\locationvoiture.csproj|solutionrelative:locationvoiture\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocationVoiture\\locationvoiture\\Default.aspx",
+              "RelativeDocumentMoniker": "locationvoiture\\Default.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocationVoiture\\locationvoiture\\Default.aspx",
+              "RelativeToolTip": "locationvoiture\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-11T23:08:18.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocationVoiture\\locationvoiture\\About.aspx",
+              "RelativeDocumentMoniker": "locationvoiture\\About.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocationVoiture\\locationvoiture\\About.aspx",
+              "RelativeToolTip": "locationvoiture\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-11T23:03:46.395Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
